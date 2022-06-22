@@ -1,1 +1,1 @@
-Type something here
+Task 0. Where am I?
